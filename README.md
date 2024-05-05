@@ -1,2 +1,4 @@
-# CapWizards-Database
-SQL database for a web shop selling bottle caps
+## CapWizards Made by Lizards - SQL database tailored for webshop
+
+**University case study featuring:** SQL database creation.
+
